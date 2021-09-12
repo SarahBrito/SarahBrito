@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sara Brito 👋
 
 <div>
-  <img heigth=180em src = "https://github-readme-stats.vercel.app/api?username=SarahBrito&show_icons=true&theme=tokyonight"/>
+  <img heigth=180em width=400em src = "https://github-readme-stats.vercel.app/api?username=SarahBrito&show_icons=true&theme=tokyonight"/>
   <img heigth=180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBrito&layout=compact&theme=tokyonight"/>
 </div>
 
